@@ -1,0 +1,22 @@
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 930px;
+    height: 100px;
+    margin-top: 20px;
+}
+.content{
+    display: inline-block;
+    background: #fff;
+    padding:10px 20px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px #ccc;
+    margin: auto;
+}
+.astarisk{
+    font-size: 100px;
+    display: inline-block;
+    margin:auto;
+}
